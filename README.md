@@ -30,4 +30,5 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 - back number
 - きのこ帝国
 - 緑黄色社会
+- 星街すいせい/Hoshimachi Suisei
 - NUMBER GIRL
