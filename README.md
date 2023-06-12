@@ -1,6 +1,8 @@
 # Please tell me your favorite game console
-Please write a name of your favorite game console. Everything OK!<br>
+Please write a name of your favorite game console. Anything is OK!<br>
+Duplication is not a problem.<br>
 好きなゲーム機の名前を書き足してください。なんでもいいですよ！
+同じものを書いていただいても大丈夫です。
 
 # How to（やり方）
 1. Click README.md
