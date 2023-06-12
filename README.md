@@ -16,7 +16,7 @@ Duplication is not a problem.<br>
  3. Will
  4. Google Stadia
  5. 3DS
- 6.
+ 6. DS
  7.
  8.
  9.
