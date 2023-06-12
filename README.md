@@ -9,7 +9,7 @@ Please write a name of your favorite game console. Everything OK!<br>
 4. Click "Pull request" buttom
 
 # List of favorite game consoles
- 1.
+ 1. GAME BOY ADVANCE
  2.
  3.
  4.
