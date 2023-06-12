@@ -21,13 +21,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Drink
-1.Japanese GreenTea
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+
+1.Green Tea
+2.Coffee
+3.Ice Tea
+4.Tea
+5.Calpis Soda
+6.Water
+7.Screwdriver
+8.Japanese GreenTea
 9.
 10.
