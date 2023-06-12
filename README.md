@@ -21,8 +21,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Drink
-1.Green Tea
-2.Coffee
+1.Green Tea.
+2.Coffee.
 3.
 4.
 5.
