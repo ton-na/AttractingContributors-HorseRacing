@@ -11,7 +11,7 @@ Please write a name of your favorite game console. Everything OK!<br>
 # List of favorite game consoles
  1. GAME BOY ADVANCE
  2. Slot machine (HAHAHA)
- 3.Will
+ 3. Will
  4.
  5.
  6.
