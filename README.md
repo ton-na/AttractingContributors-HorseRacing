@@ -1,9 +1,15 @@
 # My Project
 ## What to do on holidays?
 
-Playing sports, playing games, studying, researching, whatever.
+What do you do on days when you are free from classes and research?
 
-Enjoy your holiday!
+Or do you escape from reports and research?
+
+Please let us know what you do!
+
+And enjoy your day off!
+
+Well, the day I post this is Monday.
 
 # Rules
 1. Please choose a hobby or some interest that you want to build your repository
