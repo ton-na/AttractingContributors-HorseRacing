@@ -29,6 +29,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5.Calpis Soda
 6.Water
 7.Screwdriver
-8.
+8.Japanese GreenTea
 9.
 10.
