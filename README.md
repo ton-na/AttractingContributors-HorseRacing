@@ -15,3 +15,5 @@ Enjoy your holiday!
 
 # List of Hobby
 1. Reading books
+2. Go out with friends
+
