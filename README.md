@@ -21,7 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of favorite movies
-1.
+1.　海よりもまだ深く　That is my favourite Japanese movie, it makes me feel quiet like living in a room at a rain night.
 2.
 3.
 4.
