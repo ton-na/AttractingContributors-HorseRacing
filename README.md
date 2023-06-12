@@ -21,13 +21,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of favorite movies
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
