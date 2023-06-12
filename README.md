@@ -10,7 +10,7 @@
 
 # List of Streamer
 1. @KevinsEnglishRoom
-2.
+2. 剣持刀也（@KenmochiToya）
 3.
 4.
 5.
