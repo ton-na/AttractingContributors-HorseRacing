@@ -14,5 +14,6 @@ Enjoy your holiday!
 4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
 # List of Hobby
-1. Go out with friends
+1. Reading books
+2. Go out with friends
 
