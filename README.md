@@ -12,6 +12,7 @@ Please write a name of your favorite game console. Everything OK!<br>
  1. GAME BOY ADVANCE
  2. Slot machine (HAHAHA)
  3. Will
+ 4. Google Stadia
  4. 3DS
  5.
  6.
