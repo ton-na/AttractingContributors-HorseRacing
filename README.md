@@ -1,11 +1,23 @@
 # How to?
 
-1. Fork the repository: Start by forking this repository to your github account.
-2. Make your changes: Clone the forked repository to your local machine and add your favourite month at the last of this README file.
-3. Commit your changes: Once you've made the desired modifications, commit your changes locally.
-4. Push your changes: Push the committed changes to your forked repository on GitHub.
-5. Create a pull request: Navigate to the [my repository](https://github.com/inusturbo/AttractingContributors-month/pulls). Click on it and then click "New Pull Request." GitHub will compare the changes you made in your fork with the original repository.
-6. Done, I will merge it. Thank you in advance for your contribution, and I will help you to do it too.
+![image-20230612163041929](https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163042-sLcxKT.png)
+
+![image-20230612163122150](https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163122-0KWZKV.png)
+
+![image-20230612163508909](https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163509-QEGXRB.png)
+
+<img src="https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163614-g4VTg9.png" alt="image-20230612163614305" style="zoom:50%;" />
+
+![image-20230612163658536](https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163658-AfDpc0.png)
+
+![image-20230612163727003](https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163727-5sC6Su.png)
+
+![image-20230612163745286](https://cdn.jsdelivr.net/gh/inusturbo/images@main/uPic/20230612-163745-ouvkqZ.png)
+
+
+Done! Good job! I will merge it. Thank you in advance for your contribution, and I will help you to do it too.
+
+
 
 # List of favourite month
 1. Jan.
