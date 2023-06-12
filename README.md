@@ -21,3 +21,4 @@ Goal - iwant contributors to help me list some favorite Yotube or Twitch Streame
 お気に入りのユーチューブもしくはツイッチなどの配信者をいくつか挙げるのに貢献してもらいたいです！
 
 # List of Streamer
+1. @KevinsEnglishRoom
