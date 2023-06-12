@@ -17,4 +17,5 @@ Enjoy your holiday!
 1. Reading books
 2. Go out with friends
 3. Listen to musics
+4. Watching TV
 
