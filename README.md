@@ -6,7 +6,7 @@
 
 # Goal 
 - Do you usually watch youtube or twitch?　I want contributors to help me list some favorite Yotube or Twitch Streamer!
-あなたは普段youtubeやtwitchは見ますか？お気に入りのユーチューブもしくはツイッチなどの配信者をいくつか挙げるのに貢献してもらいたいです！
+- あなたは普段youtubeやtwitchは見ますか？お気に入りのユーチューブもしくはツイッチなどの配信者をいくつか挙げるのに貢献してもらいたいです！
 
 # List of Streamer
 1. @KevinsEnglishRoom
