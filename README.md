@@ -17,7 +17,12 @@ To complete the assignment, please do the following:
 
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project(The best lecture)
+Which lecture that you have taken so far at NAIST do you consider the best? Please share your opinions!
+
+Here is a example below.
+- Research Writing A
+
+# List of lectures you consider the best
