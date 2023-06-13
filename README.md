@@ -15,9 +15,21 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# What is the best text editor?
+Please enter Vim in the list below.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+
+
+# List of text editor
+1. Vim
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
