@@ -50,7 +50,7 @@ Equinox
 4. Ask Victor More
 5. Lilac
 6. Pradaria
-7.
+7. Deep Bond
 8.
 9.
 10.
