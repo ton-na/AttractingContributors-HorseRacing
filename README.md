@@ -26,6 +26,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Mission Inpossible
 4. ララランド
 5. Detective Conan
-
-4. 5 Centimeters Per Second
+6. Centimeters Per Second
+7. ちはやふる
 
