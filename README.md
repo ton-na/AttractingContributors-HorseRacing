@@ -51,7 +51,7 @@ Equinox
 5. Lilac
 6. Pradaria
 7. Deep Bond
-8.
+8. Justin Palace
 9.
 10.
 11.
