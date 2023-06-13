@@ -23,5 +23,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of favorite movies
 1. Twilight
 2. 海よりもまだ深く　That is my favourite Japanese movie, it makes me feel quiet like living in a room at a rain night.
-3. Furious 7
+3. Mission Inpossible
+4. ララランド
+5. Detective Conan
+6. Centimeters Per Second
+7. ちはやふる
+8. The Imitation Game
+9. Furious 7
 
