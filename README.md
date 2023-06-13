@@ -26,3 +26,4 @@ Well, the day I post this is Monday.
 4. Watching TV
 5. Running
 6. Coding
+7. Sleeping
