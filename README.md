@@ -20,3 +20,4 @@ Please tell us your favorite sport and the name of your favorite athlete in that
 * Michael Jordan / Basketball
 * Luis Arraez / Baseball
 * Kosuke HAGINO / Swimming
+* Furukawa Takaharu　/archery
