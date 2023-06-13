@@ -3,4 +3,5 @@ plz tell me your favorite artist!
 you can write any singer, band, and so on.
 
 # list of favorite artists
-Kenshi Yonezu
+1. Kenshi Yonezu
+2. 仁井学 NII Manabu (Twitter @aleos696)
