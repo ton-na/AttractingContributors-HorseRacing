@@ -3,6 +3,11 @@ plz tell me your favorite artist!
 you can write any singer, band, and so on.
 
 # list of favorite artists
-1. Kenshi Yonezu
-2. 仁井学 NII Manabu (Twitter @aleos696)
-3. Duca
+
+1.Kenshi Yonezu<br/>
+2.仁井学 NII Manabu (Twitter @aleos696)<br/>
+3.amazarashi<br/>
+4.菅原圭 Sugawara Kei<br/>
+5.Spitz
+6.Duca
+
