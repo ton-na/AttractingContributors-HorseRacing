@@ -7,3 +7,5 @@ you can write any singer, band, and so on.
 2.仁井学 NII Manabu (Twitter @aleos696)<br/>
 3.amazarashi<br/>
 4.菅原圭 Sugawara Kei<br/>
+5.Spitz
+
