@@ -6,3 +6,4 @@ you can write any singer, band, and so on.
 Kenshi Yonezu
 仁井学 NII Manabu (Twitter @aleos696)
 amazarashi
+菅原圭 Sugawara Kei
