@@ -3,7 +3,7 @@ plz tell me your favorite artist!
 you can write any singer, band, and so on.
 
 # list of favorite artists
-Kenshi Yonezu
-仁井学 NII Manabu (Twitter @aleos696)
-amazarashi
-菅原圭 Sugawara Kei
+1.Kenshi Yonezu
+2.仁井学 NII Manabu (Twitter @aleos696)
+3.amazarashi
+4.菅原圭 Sugawara Kei
