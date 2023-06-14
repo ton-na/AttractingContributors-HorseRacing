@@ -51,8 +51,8 @@ Equinox
 5. Lilac
 6. Pradaria
 7. Deep Bond
-8. Justin Palace
-9.
+8. Dura Erede
+9. Justin Palace
 10.
 11.
 12.
