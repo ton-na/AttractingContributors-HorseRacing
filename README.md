@@ -24,6 +24,7 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 
 # List of Music Artist.
 - fripSide
+- フラワーカンパニーズ
 - MARY
 - mafumafu
 - YuraYura Teikoku  
