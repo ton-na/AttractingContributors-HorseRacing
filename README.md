@@ -33,3 +33,4 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 - TOTO
 - 星街すいせい/Hoshimachi Suisei
 - NUMBER GIRL
+- フラワーカンパニーズ
