@@ -23,7 +23,7 @@ Please enter Vim in the list below.
 
 # List of text editor
 1. Vim
-2.
+2.　VScode
 3.
 4.
 5.
