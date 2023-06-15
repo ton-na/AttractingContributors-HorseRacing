@@ -53,7 +53,7 @@ Equinox
 7. Deep Bond
 8. Dura Erede
 9. Justin Palace
-10.
+10. Equinox-Breakup
 11.
 12.
 13.
