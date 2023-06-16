@@ -34,4 +34,4 @@ Note：Include the person's name, and write "Anonymous" when anonymous
    John A. Shedd
 ### Repetition is the mother of learning
    Anonymous
-   
+###Collect Moment,Not Things    
