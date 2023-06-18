@@ -25,7 +25,7 @@ Please enter Vim in the list below.
 1. Vim
 2.
 3.
-4.
+4. Visual Studio Code
 5.
 6.
 7.
