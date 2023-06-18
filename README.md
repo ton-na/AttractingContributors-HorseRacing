@@ -23,13 +23,14 @@ Please enter Vim in the list below.
 
 # List of text editor
 1. Vim
-2. VSCode
-3.
-4. Visual Studio Code
-5.
+2.　VScode
+3. VSCode
+4.
+5. Visual Studio Code
 6.
 7.
 8.
 9.
 10.
 11.
+
