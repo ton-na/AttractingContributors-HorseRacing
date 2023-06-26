@@ -54,7 +54,7 @@ Equinox
 8. Dura Erede
 9. Justin Palace
 10. Equinox-Breakup
-11.
+11. Win Mighty
 12.
 13.
 
